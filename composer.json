@@ -1,0 +1,17 @@
+{
+    "name": "PROJECT_NAME",
+    "description": "vendor project, 如有侵权，请提 issue 联系删除",
+    "homepage": "https://github.com/caszwy/credit",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Wutongwan\\Vendors\\Credit\\": "src/credit/"
+        }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
