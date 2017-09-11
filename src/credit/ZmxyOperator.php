@@ -1,4 +1,4 @@
-<?php namespace Credit;
+<?php namespace Caszwy\Credit;
 
 class  ZmxyOperator
 {

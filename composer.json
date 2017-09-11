@@ -1,6 +1,6 @@
 {
     "name": "caszwy/credit",
-    "description": "vendor project, 如有侵权，请提 issue 联系删除",
+    "description": "caszwy credit, 如有侵权，请提 issue 联系删除",
     "homepage": "https://github.com/caszwy/credit",
     "license": "MIT",
     "require": {
@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Wutongwan\\Vendors\\Credit\\": "src/credit/"
+            "Caszwy\\Credit\\": "src"
         }
     },
     "prefer-stable": true,

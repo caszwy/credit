@@ -1,4 +1,4 @@
-<?php namespace Credit\Request;
+<?php namespace Caszwy\Credit\Request;
 /**
  * ZHIMA API: zhima.auth.info.authorize request
  *
