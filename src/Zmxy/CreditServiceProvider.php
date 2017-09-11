@@ -1,4 +1,4 @@
-<?php namespace Caszwy\Credit;
+<?php namespace Caszwy\Credit\Zmxy;
 
 use Illuminate\Support\ServiceProvider;
 
